@@ -1,2 +1,6 @@
 Datasets/
 __pycache__/
+app.py
+eda_output
+templates/
+
